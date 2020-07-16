@@ -5,3 +5,6 @@
 
 ## Стэк технологий:
 HTML5, CSS3, grid layout, анимация.
+
+## gh-pages:
+[Link](https://komanw.github.io/Layout-Example/)
